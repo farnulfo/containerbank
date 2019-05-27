@@ -41,7 +41,7 @@
 
         <postgresql-driver.version>9.4.1211.jre7</postgresql-driver.version>
 
-        <jacoco.version>0.8.1</jacoco.version>
+        <jacoco.version>0.8.4</jacoco.version>
     </properties>
 
     <dependencyManagement>
